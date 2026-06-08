@@ -11,7 +11,7 @@
 ![Views](https://komarev.com/ghpvc/?username=synaps3s&color=475569&style=flat-square&label=profile+views)
 <br>
 
-![Now Playing](https://replica-sends-wishes-webcast.trycloudflare.com/now-playing.svg)
+![Now Playing](https://salary-grows-hwy-behind.trycloudflare.com/now-playing.svg)
 
 </div>
 
