@@ -9,6 +9,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davideramundo-98469538b)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=apple&logoColor=white)](mailto:davide.ramundo@icloud.com)
 ![Views](https://komarev.com/ghpvc/?username=synaps3s&color=475569&style=flat-square&label=profile+views)
+<br>
+
+![Now Playing](https://placeholder.trycloudflare.com/now-playing.svg)
 
 </div>
 
