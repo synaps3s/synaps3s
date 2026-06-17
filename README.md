@@ -11,7 +11,7 @@
 ![Views](https://komarev.com/ghpvc/?username=synaps3s&color=475569&style=flat-square&label=profile+views)
 <br>
 
-![Now Playing](https://cave-immune-enquiry-involve.trycloudflare.com/now-playing.svg)
+![Now Playing](https://saturday-tobago-org-oakland.trycloudflare.com/now-playing.svg)
 
 </div>
 
